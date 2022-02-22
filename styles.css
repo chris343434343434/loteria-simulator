@@ -12,9 +12,35 @@ header > h1{
     margin-bottom: 10px;
 }
 
-heder > h3{
+header > h3{
     font-size: 2rem;
     margin-top: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+input {
+    width: 3.5rem;
+    height: 3rem;
+    text-align: center;
+}
+.numeros{
+    justify-content:space-evenly;
+    padding-left: 30%;
+    padding-right: 30%;
+    align-items: center;
+    display: flex;
+}
+.sorteio, .verificacao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnsort{
+    padding:3px 10px;
+    margin-top: 5px;
+    background-color: crimson;
+    color:ghostwhite;
 }
 
