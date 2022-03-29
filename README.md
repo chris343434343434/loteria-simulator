@@ -23,7 +23,10 @@ e apos isso verifica a quantidade de acertos.
 | Tela inicial | Primeiro teste | 
 |--------------|----------------|
 |---imagen 1---|----imagen 2----|
-
+|--PeloFolder--|----------------|
+|![img1](/img/img1.png)|![img2](/img/img2.png)|
+|---porLink----|----------------|
+|![img1](https://raw.githubusercontent.com/chris343434343434/loteria-simulator/master/img/img1.png)|![img2](https://raw.githubusercontent.com/chris343434343434/loteria-simulator/master/img/img2.png)|
 
 ### Codigo
 ```js:
