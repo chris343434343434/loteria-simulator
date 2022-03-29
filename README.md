@@ -6,7 +6,7 @@ e apos isso verifica a quantidade de acertos.
 - **HTML:** _Estrutura do site._ 
 - **CSS:** *estilo do site.*
 - **JS:** *funções do site.*
-- ~~~BootStrap~~:*Não foi utilizado.*
+- ~~~BootStrap~~: *Não foi utilizado.*
 
 
 ### Melhorias Possiveis.
